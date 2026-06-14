@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Kapala%20Surya%20Charan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20&descColor=a0aec0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,50:ff8c00,100:ffa500&height=200&section=header&text=Kapala%20Surya%20Charan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20&descColor=ffffff" />
 </div>
 
 <p align="center">
@@ -23,5 +23,5 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-charann/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kapalasuryacharan@gmail.com)
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,50:ff8c00,100:ffa500&height=200&section=header&text=Kapala%20Surya%20Charan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=20&descColor=ffffff" />
 </div>
